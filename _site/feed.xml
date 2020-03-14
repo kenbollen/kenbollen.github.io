@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kenneth Bollen</title>
+    <description>A site to contain my ramblings</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 14 Mar 2020 22:26:18 +0000</pubDate>
+    <lastBuildDate>Sat, 14 Mar 2020 22:26:18 +0000</lastBuildDate>
+    <generator>Jekyll v3.6.3</generator>
+
+    
+      <item>
+        <title>How Does it Grow - Headspace</title>
+        <description>&lt;h5 id=&quot;introduction&quot;&gt;Introduction&lt;/h5&gt;
+
+&lt;p&gt;I have been a long-time user of the Headspace app, which describes itself as a digital health platform that provides guided meditation sessions and mindfulness training. I was first introduced to the app back in 2015 and have been a paying-user ever since. Since its founding in 2010, it has grown to be one of the top-grossing wellness apps in the world, capturing a significant % of the market along with its rival Calm.&lt;/p&gt;
+
+&lt;p&gt;Headspace’s growth into one of the biggest wellness apps has been an interesting case study of a sustainable growth strategy. I will break-down Headspace’s growth model as follows&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/headspace_growth_model.jpg&quot; alt=&quot;headspace_growth_model&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;the-habit-loops&quot;&gt;The Habit Loops&lt;/h5&gt;
+
+&lt;p&gt;The first layer of the growth model seeks to establish how the product retains its users through habits. The Habit loops best describe how a user develops a habit around the core use-case of the product. In Headspace’s case, the core use-case is taking a meditation session on the app. As a new user gets on-bordered, Headspace manufactures the habit loop by asking when the user wants to meditate and asking them to set an alarm to remind the user to meditate. This alarm serves to act as the manufactured trigger to get the user to meditate.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/headspace_trigger.jpg&quot; alt=&quot;headspace_trigger&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As the user develops a daily routine around guided meditation, the user develops an association with relieving their stress or busy mind through meditation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/headspace_manufactured_loop.jpg&quot; alt=&quot;headspace_manufactured_loop&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This transitions the user into an environmental habit loop as to when they are triggered by a stressful event or finds their mind “busy” during their day, they will activate the Headspace app without the need for a daily alarm to receive their reward.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/headspace_enviroment_loop.jpg&quot; alt=&quot;headspace_enviroment_loop&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;the-user-acquisition-loops&quot;&gt;The User Acquisition Loops&lt;/h5&gt;
+
+&lt;p&gt;The next layer of the growth model is user acquisition. What’s interesting about Headspace’s user acquisition is that they first came onto the scene in 2010 and were the first major entrant to the wellness app market. It’s arguable that Headspace’s growth was constrained back in 2010 as there was a certain stigma associated with mental wellness that prevented people from discussing it openly and a perception that it was reserved to people suffering from a clinical form of depression.&lt;/p&gt;
+
+&lt;p&gt;This created a problem for Headspace as an early-stage company with limited resources where they couldn’t leverage low-cost acquisition channels such as virality to learn more about their market and customers. This is because to employ social virality, a user needs to gain social capital from creating awareness of the product, especially if there is no financial or personal utility to gain from sharing the app. The social stigma of mental wellness would have acted as a constraint against this virality and broken the loop.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/headspace_social_loop.jpg&quot; alt=&quot;headspace_social_loop&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To counter this, Headspace’s founder Andy Puddicombe, conducted a number of high profile PR interviews with the likes of Ellen Degeneres and Jimmy Fallon that discussed the merits of mindfulness, which acted as a linear activity to provide activation energy to the social virality loop.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/headspace_linear_activity.jpg&quot; alt=&quot;headspace_linear_activity&quot; /&gt; 
+These celebrity interviews provided the needed activation energy to the social virality loop as it worked to reduce the psychological constraints on user distribution by destigmatising the topic and creating the necessary social capital that a user can gain from sharing the app with their networks.&lt;/p&gt;
+
+&lt;h5 id=&quot;activation-energy&quot;&gt;Activation Energy&lt;/h5&gt;
+
+&lt;p&gt;Now with the required activation energy to kick start the social virality loop, Headspace introduced a new flow where a user would be prompted to invite their friends to 14 days of free paid content after completing a meditation session.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/headspace_referal.jpg&quot; alt=&quot;headspace_referal&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, I believe there are a few deficiencies with the loop that prevents it from working to fully grow the user base. The loop attempts to employ a financial incentive for referral recipient without providing an incentive to the referral distributor, therefore, failing to complete the loop. As this prompt was set to take place after a user completes a meditation session, I believe the idea was to capitalise on the user’s delta of expectations vs experience, where a user is so happy with the meditation experience that they feel compelled to share the experience with their friends. Though a user may feel a certain positive experience after completing a meditation, I don’t think it has the 10x delta in expectation vs experience that would create a need to share with friends that would fuel the social virality loop. This is largely due to the level of competition within the wellness space that offers a similar experience, diluting the “wow” factor.&lt;/p&gt;
+
+&lt;p&gt;As the act of doing a meditation is a single-player value promise where the experience isn’t enhanced by more users on the platform, financial incentives are needed to get the user to distribute the value. However, a simple monetary incentive is insufficient as the referral should incentivize habit creation and not one-time use. Headspace achieves this part by centering the incentive to the value receiver around 14 days of free subscription content, which promotes habit creation through a time restricted period of multiple uses of the product. Additionally, by focusing the incentive on free meditation content, it aligns the currency of the incentive to the primary value promise, which increases the perceived value to the user but serves to limit the costs to Headspace. I believe to get this loop to function, Headspace need to offer a similar type of incentive to the value distributor. This can be achieved in a number of ways such as creating exclusive meditation content only accessible to users who refer X amount of users. For example, access to a meditation package a few weeks earlier than when it’s released on the platform when you refer 3 of your friends. Thus creating a value promise that incentivizes the value distributor to refer their friends to the platform.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2019/12/22/how-does-it-grow-headspace/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/12/22/how-does-it-grow-headspace/</guid>
+      </item>
+    
+      <item>
+        <title>The Music Streaming Wars</title>
+        <description>&lt;h5 id=&quot;introduction&quot;&gt;Introduction&lt;/h5&gt;
+
+&lt;p&gt;The history of the music industry is a litany of innovative disruptions that has brought us LPs, Cassettes, CDs, MP3s and now music streaming. Though the latest innovation on how we consume our music has for the first time altered the dynamic of the music industry and a host of music streaming services are now jostling to obtain the required number of subscribers to reach the network effects that will allow a dominance in the new market. This blog will look at the 3 business models I believe will be make the biggest impact on capturing market share and who I think will most likely be triumphant in the music streaming wars.&lt;/p&gt;
+
+&lt;h5 id=&quot;spotify-freemium&quot;&gt;Spotify: Freemium&lt;/h5&gt;
+
+&lt;p&gt;Spotify came onto the scene by offering free music streaming to its users. The freemium model is nothing new to the music industry as a strategy deployed by radio stations for decades by offering listeners free music that is subsidized by advertisements.&lt;/p&gt;
+
+&lt;p&gt;The justification for the model is based on the thesis that once you drive users onto the platform and they see the value of the service first hand, they will be more willing to pay the subscription for the extra features and content. Largely, Spotify has been proved correct attaining the lead market share in 2016 at 40 million paying subscribers dwarfing their nearest competitors. Based on their two tier pricing model where users can listen to music advertisement free at $9.99 a month, Spotify generated $2.2 billion in revenue for 2015, which represented an impressive 80% increase from their 2014 revenue of $1.21 billion. However, their business model looks to fall apart when investigating their costs. The strength of the music labels’ bargaining power dictates significant royalty pay-outs at 83% of their top line at $1.8 billion.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/music_streaming_profit.jpg&quot; alt=&quot;music_streaming_profit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Funnel conversation is therefore a hugely important metric for Spotify as their ability to convert non-paying users into subscribers will define their success. Currently, there is a significant unpaid tier at a 100 million non-paying users that could give Spotify a crippling market share and prime their IPO valuation. This has seen Spotify pivot their M&amp;amp;A targets from front-end companies that have improved their UX towards back-end data science companies that reduce churn and improve subscription conversion rates. Furthermore, Spotify works on increasing their users switching costs by creating features (Spotify Singles and Playlists) that entrench users into their service and solidify their market share.&lt;/p&gt;
+
+&lt;h5 id=&quot;tidal-exclusivity&quot;&gt;Tidal: Exclusivity&lt;/h5&gt;
+
+&lt;p&gt;It’s fair to say that the acquisition by Rapper Jay Z for $56 million in March 2015 firmly put Tidal onto the music streaming map by transforming the service into a premium service that boasted exclusive content by the some of the biggest musicians in the industry. Youtube and Spotify’s introduction of music streaming heavily disrupted the music industry’s revenue stream at a time when they had just managed to wrestle music fans’ addiction off pirated content by moving towards an on-demand micro payment model (aka iTunes).&lt;/p&gt;
+
+&lt;p&gt;Therein laid Jay-Z’s proposition to the music industry, a streaming platform that puts the power back into musicians hands by compensating them appropriately for their music and in-return, musicians would release their content exclusively to the Tidal platform and starve Spotify’s freeloading users. Musicians loved the concept with some of the biggest names in the industry signing up to be co-owners but evidence of its success would only be seen when Kanye West released his much anticipated Life of Pablo exclusively on Tidal for 3 months&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/music_streaming_kanye.jpg&quot; alt=&quot;music_streaming_kanye&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tidal is a payment subscription service only and offers subscribers two payment tiers at $9.99 per month for complete access and $19.99 per month for a premium service that provides music aficionados high-fidelity streaming. At 3 million subscribers, Tidal has managed to convince 45% of its user base to sign-up for the premium service, making its monthly revenue at around $40 million&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/music_streaming_pricing.jpg&quot; alt=&quot;music_streaming_pricing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As a service that is primarily owned by various musicians, my assumption is that they will have a greater ability to drive down their royalty pay-out costs compared to Spotify and Apple Music.&lt;/p&gt;
+
+&lt;h5 id=&quot;apple-music-platform-economics&quot;&gt;Apple Music: Platform Economics&lt;/h5&gt;
+
+&lt;p&gt;Considering the myopic-ness that normally plagues companies the size of Apple, credit must be given to Tim Cook’s ability to evolve from a micro-payment model towards a music subscription model, albeit a bit late to the party. Though hitting 20 million subscribers within 18 months is impressive (it took Spotify 4 years), it still only represents roughly 50% of Spotify’s market share.&lt;/p&gt;
+
+&lt;p&gt;Unlike its fellow music streaming rivals, Apple Music is not a stand-alone service where a sustainable business model will define their business. Apple sees streaming as a part of their overall mobile strategy to encourage sales of its flagship iPhone. This fundamental difference is what sets them apart from their rivals as they can treat streaming as a loss-leader and undercut their rivals to capture market share. Therefore, Apple music can take a dual strategy of releasing exclusive content via the like of Drake and create Spotify-like personalised features through curated playlists from international DJs. As long as Apple Music serves to boost the appeal of iPhone releases, they have the ability to outspend their rivals over the long term as seen by their 3-month free trial offer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/music_streaming_apple_profit.jpg&quot; alt=&quot;music_streaming_apple_profit&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;so-how-does-this-playout&quot;&gt;So, how does this playout?&lt;/h5&gt;
+
+&lt;p&gt;The music streaming market is close to a saturation with most future growth coming from the untapped Asian markets. Therefore a likely consolidation within the market will occur with my prediction of Spotify and Apple Music being the dominate players.&lt;/p&gt;
+
+&lt;p&gt;Apple Music, backed by Apple’s war chest of billions, will most likely embark on an acquisition spree that sees the chance to acquire Tidal’s exclusivity platform as the key to driving its user-base. The financial might of Apple will see it able to either driver the other “small” players out or buy out their businesses. Tidal, the strongest of the rest recognises this and there have been strong rumours of discussions with Apple and Samsung to sell off their business.&lt;/p&gt;
+
+&lt;p&gt;Spotify unable to compete head-on with the exclusivity model will be in search of organic growth from untapped markets, which has seen them enter the Japanese market for the first time in Q4 of 2016. Japan is a hugely lucrative market for music where sales are estimated at nearly $3 billion per year which makes it the world’s second largest market behind only the U.S. However, it’s a market that is still accustomed to purchasing musical physically, which is representative of most Asian markets. Spotify’s freemium model will have the advantage in these type of markets in their ability to gain momentum among users who are not used to paying for digital music consumption.&lt;/p&gt;
+
+&lt;p&gt;Though I predict the creation of a type of duopoly, my sense is that the exclusivity model combined with Apple’s platform will become the mainstream option and capture the lion share of the market as users seek to have an Omni-channel where access to all their preferred music can be easily found on their everyday devices. Spotify’s moves into recording songs from artists in its in-house New York studio would seem to appeal more to a niche segment of independent music providers. If the rumours of Spotify’s interest in acquiring the largest independent music streaming service SoundCloud are true, my prediction is that Spotify will rebrand themselves as a music streaming service for independent and alternative music.&lt;/p&gt;
+
+&lt;h5 id=&quot;notes-and-assumptions&quot;&gt;Notes and Assumptions&lt;/h5&gt;
+
+&lt;p&gt;1) I make the assumption that since Tidal is a streaming service owned by the artists that there royalty pay-outs will be limited to only the music labels. This is a simplified assumption as it’s very likely that not all of Tidal’s music catalogue will include artists that are co-owners of Tidal and there will be a percentage that still needs to be paid out to these artists. I have taken 40% as a simple assumption that the 80% that Spotify pays out is equally distributed between the music labels and artists, though this varies greatly depending on the popularity of the artist&lt;/p&gt;
+
+&lt;p&gt;2) I assume that because Tidal business model is based on exclusive music releases and high-fidelity streaming to attract subscribers, there is no spending on further R&amp;amp;D to attract users. This assumption is used to purely contrast the Tidal and Spotify business models.&lt;/p&gt;
+
+&lt;p&gt;3) Assumption that Apple Music is unable to negotiate more favourable terms with record companies and music artists and pay a similar 83% of their top-line in royalty pay-outs. This is a reasonable assumption considering that record labels have part-ownership of Spotify and the demonstrated bargaining of Taylor Swift over Apple Music&lt;/p&gt;
+
+&lt;p&gt;4) As Apple Music deploys a similar strategy of offering a freemium option to users (They have a 3-month free trial) they require R&amp;amp;D spending to convert non-paying users and create lock-in effects similar to Spotify. Therefore, I have taken the assumption that Apple Music similarly spends 1% of their revenue on R&amp;amp;D.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2017/01/09/the_music_streaming_wars/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/01/09/the_music_streaming_wars/</guid>
+      </item>
+    
+      <item>
+        <title>How does it make money - AirBnB</title>
+        <description>&lt;h5 id=&quot;who-are-airbnb&quot;&gt;Who are AirBnb?&lt;/h5&gt;
+
+&lt;p&gt;As folklore stories go, Silicon Valley is rife of tales of missed opportunities, last minute deals and entrepreneurs that overcame deep skepticism to prove their doubters wrong. Airbnb fits into that third category as the often told story about how co-founders Brain Chesky and Joe Gebbia, who could barely make rent, decided to build a website that offered a night on their air mattress with breakfast included to three strangers for $80. With their initial success, Air Bed &amp;amp; Breakfast was born. However, in the pre sharing-economy era of Uber, the concept was ridiculed as unscalable because who would want to rent out their place to strangers? Today, Airbnb is a community marketplace that boasts over 500,000 listings in 192 countries that brings together people who want to share their homes with people who are looking for a unique travel experience.&lt;/p&gt;
+
+&lt;h5 id=&quot;what-makes-them-unique&quot;&gt;What makes them unique?&lt;/h5&gt;
+
+&lt;p&gt;Airbnb operates through a C2C online marketplace model that provides a platform for people looking to rent out their homes for a duration of time. Hosts provide details of their listing in terms of price, location, availability and amenities that Airbnb uses to create an aggregated view of various properties that fit guests required criteria. After a guest finds their ideal holiday home, they make a booking request via Airbnb, which is either accepted or rejected by the host. If the host agrees, Airbnb charges the payment and contact information is exchanged. This is actually the basic tenants of operating an e-commerce marketplace, where Airbnb start differentiating themselves to transform their business into a scalable model is by setting up a framework of trust.&lt;/p&gt;
+
+&lt;p&gt;In order to scale their business, Airbnb faced a huge task to change a mind-set that was reluctant on sharing with strangers. To make it more appealing, Airbnb made a bet that if they provided professional photography to listed homes and required users to upload a photo of themselves, they would erode the doubt of jumping into the unknown and create a more personal feeling between the two users. The bet proved correct when in 2011, Airbnb hired 20 photographers to take professional photographs of listed home that led to two-to-three times more bookings than the market average.&lt;/p&gt;
+
+&lt;p&gt;Airbnb coupled this initiative with other trust building processes such as placing a large weighting on user reviews in their aggregation model and holding payment for at least 24 hours after a user has checked-in to dissuade and prevent fraudulent or unrepresentative listings. By building a framework of trust between hosts and guests, Airbnb removed any barriers that would prevent the sharing of homes.&lt;/p&gt;
+
+&lt;h5 id=&quot;so-how-does-it-make-money&quot;&gt;So, how does it make money?&lt;/h5&gt;
+
+&lt;p&gt;Online marketplaces traditionally have 4 core revenue streams that they can generate fees out of their users (commission, transaction, listing and promotional fees). On the face of it, Airbnb seems to have opted to focus on generating their revenue from commission fees charged to guests (10% average) and transaction fees charged to hosts (3%). There are rumours that Airbnb has been testing promotional fees on their host at an extortionate 12%-15%, however, there seems to be no evidence that they have formalised this into their general business model. The omittance of listing fees seems to be slightly strange, though one could argue as a growing business they want to encourage the listing of homes on their platform by removing any barriers, however the supply of homes outstrips the annual demand and could therefore negatively affect their average daily rate (ADR), which in-turn reduces the amount they can collect from their main source of revenue - commission and transaction fees. I would guess this would effect more of their established markets.&lt;/p&gt;
+
+&lt;p&gt;Using Airbnb data supplied for New York, some key stats to look at relate to the average daily rate, annual compression nights and annual demand&lt;/p&gt;
+
+&lt;p&gt;##Key Stats&lt;/p&gt;
+
+&lt;p&gt;Average Daily Revenue (Non-Compression Nights): $177.03
+Average Daily Revenue (Compression Nights): $183.73
+Average No. of Compression Nights in New York (Last 10 years): 47
+Bookings in New York State (2015): 1,496,260
+Guest fee per transaction: 10%
+Host fee per transaction: 3%
+Revenue from guests: $26,617,379.07
+Revenue from hosts: $7,985,213.72
+Total Revenue: $34,602,592.80&lt;/p&gt;
+
+&lt;p&gt;##Annual Revenue - New York&lt;/p&gt;
+
+&lt;p&gt;This is an impressive figure on its own and considering it operates as an online marketplace, one would assume Airbnb’s costs would be significantly lower relative to the revenue they generate. To get a true sense of its market performance, it would be best to benchmark its efforts to the New York hotel market.&lt;/p&gt;
+
+&lt;p&gt;Hotel Premium on compression nights: 27.60%
+Airbnb Premium on compression nights: 3.80%&lt;/p&gt;
+
+&lt;p&gt;##Compression nights - New York&lt;/p&gt;
+
+&lt;p&gt;Compression nights are an important indicator in the travel &amp;amp; hospitality business as it indicates periods where they can generate significant revenues due to the high demand. During these compression periods, Airbnb hosts do a poor job in converting the high demand into higher revenue as they charge on average a 3.8% premium. Looking at significant events and holidays&lt;strong&gt;*** in New York relative to the occupancy levels and ADR, it can be determined that Airbnb’s hosts have poor yield management strategies as the correlation between occupancy and ADR is only positively correlated at 0.57, while hotels manage their ADR more effectively at a correlation of 0.72&lt;/strong&gt;&lt;em&gt;**&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;As Airbnb has centered their business model on the success of their hosts to attract guests, their host’s poor yield management will directly impact Airbnb’s commission and transaction fees. If we take the assumption that hosts were able to effectively manage their ADR during high demand peaks and charge the hotel equivalent of a 27.6% premium, Airbnb has accumulated an opportunity cost in the region of $1 million.&lt;/p&gt;
+
+&lt;p&gt;##The Cost&lt;/p&gt;
+
+&lt;p&gt;Airbnb Average Daily Revenue (No Yield Management): $183.73
+Airbnb Average Daily Revenue (Yield Management Assumption): $225.89
+Total Revenue (No Yield Management): $34,602,592.80
+Total Revenue (Yield Management Assumption): $35,658,580.59
+Difference: $1,055,987.79&lt;/p&gt;
+
+&lt;h5 id=&quot;how-does-the-future-look&quot;&gt;How does the future look?&lt;/h5&gt;
+
+&lt;p&gt;Airbnb has a long-term regulatory battle on its hands and is in the midst of waging a lobbying effort on multiple fronts to preserve short-term lettings in major cities. Recently in San Francisco, Airbnb spent in the region of $8 million to defeat a single ballot initiative to shut-down their service. The defeat could be interpreted as a victory towards a more accepting regulatory attitude towards Airbnb’s business model but the evidence suggests that there will be a number of further proposals around the world. The problems are compounded when you consider that this comes at a time when tech start-ups are desperate to use their private funding to capture market share in Asia as competition heats up. Though Airbnb has been able to tap into over $200 million in private funding, if all their efforts are diverted into lobbying governments against these proposals, there won’t be much left in the war chest to channel into marketing campaigns. With rising housing prices in major cities and governments keen to preserve economic stability by making housing affordable, shutting out services like Airbnb will become a viable option to regulators. The future may look gloomy but if Airbnb can overcome this hurdle, they will surely cement their place in Silicon Valley folklore as the business that kept beating the odds.&lt;/p&gt;
+
+&lt;p&gt;Despite the uncertainty that lays ahead, one thing is for certain, the way we shop and cook for food will likely be reshaped by modern technology and a couple of Jamie Oliver inspired recipes.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Jun 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2016/06/12/how-does-it-make-money-airbnb/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/06/12/how-does-it-make-money-airbnb/</guid>
+      </item>
+    
+      <item>
+        <title>How does it make money - Hello Fresh</title>
+        <description>&lt;h5 id=&quot;who-are-hellofresh&quot;&gt;Who are HelloFresh?&lt;/h5&gt;
+
+&lt;p&gt;It’s hard to begrudge Jamie Oliver a laugh after signing a 3-year deal with one of Europe’s most highly valued tech start-ups, HelloFresh. Valued at $2.9 billion, HelloFresh’s ascendency to Unicorn* status within 4-years is nothing short of remarkable and should be considered a testament to the strength of their business model. A business that has in recent time been flirting with the idea of an IPO, has based much of their success on redefining people’s relationship with home-cooked meals. However, behind the excitement of their lofty valuation is a subscription based service that delivers to their customers all the ingredients they require for a weekly meal plan with accompanying recipes that create healthy home-cooked meals. Sounds simple enough, right?&lt;/p&gt;
+
+&lt;h5 id=&quot;what-makes-them-unique&quot;&gt;What makes them unique?&lt;/h5&gt;
+
+&lt;p&gt;“Our customers tell us we deliver inspiration: you will get us out of the daily rut, you get us out of cooking always the same five meals. I think that’s a huge selling point”  - Dominik Richter (Co-Founder &amp;amp; CEO)&lt;/p&gt;
+
+&lt;p&gt;On offer to consumers are three different subscription services aimed at vegetarians, families and couple households that provides them with the ingredients to cook 3-5 meals during a week. Every week, customers choose their meal plan before Wednesday and select a delivery day between Sunday and Tuesday for their weekly meals to arrive. By keeping it simple on the customer-side of their operations, it liberates HelloFresh to execute in a highly efficient manner with long lead-times and low inventory stock.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/business/2015/jan/30/tesco-cuts-range-products&quot;&gt;Unlike traditional supermarkets that store from 20,000 - 30,000&lt;/a&gt; stock-keeping units (SKUs), HelloFresh focuses on 18-26 produce items that are sourced from selected local producers. By creating long delivery lead-times through their Wednesday order cut-off date coupled with their low SKUs, HelloFresh is able to  forecast their demand over a &lt;a href=&quot;https://www.producebusinessuk.com/purchasing/stories/2015/07/01/hellofresh-in-continuing-quest-to-forge-closer-grower-relationships&quot;&gt;8-week time span with 90%-95% accuracy&lt;/a&gt; and can subsequently buy wholesale from their suppliers with minimal waste. This business model has the added benefit for setting very clear margin expectations across their products and allowing HelloFresh to set prices at a level where fluctuations won’t punish them.  &lt;/p&gt;
+
+&lt;p&gt;HelloFresh is relentless about finding efficiencies in their supply chain and that is most evident in the delivery of their products as they concluded they would be better off not allowing their customers to choose their delivery time slots. By simply omitting this option it enables HelloFresh to optimise their routes and delivery schedule, which ensures that van drivers can reach the maximum number of homes while travelling the minimum distance and spending the least time on delivery. This has been credited to saving &lt;a href=&quot;https://www.truckstopsrouting.com/hellofresh-increase-home-deliveries-fourfold-with-truckstops/&quot;&gt;HelloFresh 40% in fuel costs and increasing deliveries fourfold with only 50% more vans.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Central to HelloFresh business model is simplicity. However, does that translate into profitability?&lt;/p&gt;
+
+&lt;h5 id=&quot;so-how-does-it-make-money&quot;&gt;So, how does it make money?&lt;/h5&gt;
+
+&lt;p&gt;HelloFresh’s revenue grew an &lt;a href=&quot;https://www.ft.com/content/50efb818-16cd-11e6-b197-a4af20d5575e#axzz49Odp0ptQ&quot;&gt;impressive 338%&lt;/a&gt; from last year but has yet to make a profit as it looks to expand their product offering globally.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/hello_fresh_ebita.jpg&quot; alt=&quot;hello_fresh_ebita&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Costs have been increasing in absolute terms for the Berlin-based start-up but relative to the revenues it has been generating, their margins have been stable despite the increase in costs  &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/hello_fresh_margin.jpg&quot; alt=&quot;hello_fresh_margin&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;HelloFresh is in enviable position because despite them making a yearly loss, their business model is inherently profitable. Being an expanding business, HelloFresh is completely focused on growing their sales internationally, capturing market share in new markets and fighting off rivals such as Blue Apron and Plated.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/hello_fresh_marketingcost.jpg&quot; alt=&quot;hello_fresh_marketingcost&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;By foregoing profit in the near-term thanks to the strong backing of their investors, HelloFresh looks to refine their product-offering, streamline their operations and create a greater awareness of their brand. Once HelloFresh changes gears and moves into the profit lane, an average couple household purchasing their bestseller product (The Classic Box) could generate them the following:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/hello_fresh_profit.jpg&quot; alt=&quot;hello_fresh_profit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;HelloFresh generates revenue solely from the sale of their recipe boxes, which can vary depending the frequency of meals and the number of people per meal. Using their bestseller product, the “Classic Box” at £39 per box, if a customer were to subscribe to their service for a month, they could look to spend around £150 on 4 weekly meals.&lt;/p&gt;
+
+&lt;p&gt;In terms of costs, using the prices listed by HelloFresh’s suppliers, it would cost around £100 to construct a meal plan. It would be fair to say that the prices listed by suppliers isn’t a fair representation of costs that HelloFresh would pay as they would be able to negotiate more favourable terms with larger and more frequent orders.&lt;/p&gt;
+
+&lt;h5 id=&quot;how-does-the-future-look&quot;&gt;How does the future look?&lt;/h5&gt;
+
+&lt;p&gt;The logical step in the HelloFresh growth trajectory is to list their company’s shares to the public through an IPO, after 5 rounds of funding from private investors that has raised over $255.5 million. This seemed to be the strategy until late last year when they pulled the plug on their planned IPO, as investor sentiment towards tech companies changed for the negative as many believed their valuations weren’t representative of their underlying business models and a fear of a growing tech bubble. It would seem in the short-term that HelloFresh made the correct call as they didn’t need access to further capital as the evidence showed they had &lt;a href=&quot;http://static1.squarespace.com/static/558f26dbe4b01c6273ea34d4/t/5722214ee707eb71b7bcc44d/1461854543065/HelloFresh+2015+Financial+Results.pdf&quot;&gt;a strong position on their balance sheet and cash position.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;With greater investor scrutiny on tech companies ability to sustainably make a profit, I would speculate that HelloFresh would only seek an IPO once they pivot from their growth strategy to a profit-making strategy. Therefore, HelloFresh will likely look to expand from their 7 geographical locations and make a potential push into the Asian market where a culture of home-cooked meals with their families and rise of longer working hours might play into their hands. HelloFresh will need to make an aggressive push into these markets and prove to the street they can be profitable as a latest CB Insights report suggests that &lt;a href=&quot;https://www.cbinsights.com/research/venture-capital-fall/&quot;&gt;venture capital funding to unicorn companies is on the decline&lt;/a&gt; due to questionable valuations and poor performance. Any future funding will most likely need to come from the public market.&lt;/p&gt;
+
+&lt;p&gt;Despite the uncertainty that lays ahead, one thing is for certain, the way we shop and cook for food will likely be reshaped by modern technology and a couple of Jamie Oliver inspired recipes.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 May 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2016/05/23/how-does-it-make-money-hellofresh/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/05/23/how-does-it-make-money-hellofresh/</guid>
+      </item>
+    
+      <item>
+        <title>How does it make money - Deliveroo</title>
+        <description>&lt;h5 id=&quot;who-are-deliveroo&quot;&gt;Who are Deliveroo?&lt;/h5&gt;
+
+&lt;p&gt;Deliveroo is the food delivery tech company (or foodtech) that has been dominating the roads of some of the largest urban cities with their distinctive black and green colours to deliver your favourite meal within record time. On the surface, Deliveroo is a relatively simple service that allows users to order from their favourite restaurants within a 32 minute time frame. However, looking under the hood you soon discover that apparent simplicity masks what should be considered a well-oiled operational machine that is more like a UPS logistics company than a pizza boy delivery service.&lt;/p&gt;
+
+&lt;h5 id=&quot;what-makes-them-unique&quot;&gt;What makes them unique?&lt;/h5&gt;
+
+&lt;p&gt;Index Venture’s Martin Mignot best explains the food delivery landscape and how Deliveroo positions themselves uniquely in the market in his article &lt;a href=&quot;https://www.indexventures.com/blog/the-food-delivery-wars&quot;&gt;“The Food Delivery Wars”&lt;/a&gt; where he breaks down the industry as those that cook, those that deliver and those that take orders. Within these three areas, there are certain players that overlap their operations across some or all of these dimensions. Deliveroo approaches these dimensions by positioning themselves as the service that will take your order, route it to the relevant restaurant, pick up your order and deliver it to your door step. Not only does this offer the customer a variety of choices and Deliveroo control of the end-to-end experience but it opens up a whole world of restaurants that didn’t have a delivery service who can now be served by Deliveroo’s logistics platform. This is distinctively different from the aggregators and fully integrated services like JustEat and Pronto respectively.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://indexventures.com/sites/default/files/images/blog-post/indexventures-venndiagram-01.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Deliveroo has managed in part to crack open a new market by leveraging low-cost and widely adopted technologies (i.e smartphone devices) and crafting an in-house logistic platform that is powered by a series of algorithms that optimises drivers’ routes and manages the driver supply to serve varying demand.&lt;/p&gt;
+
+&lt;h5 id=&quot;so-how-does-it-make-money&quot;&gt;So, how does it make money?&lt;/h5&gt;
+
+&lt;p&gt;“deliver high-quality food from favourite local restaurants to people’s homes and offices, and we do it quickly – the average delivery time is 32 minutes – through our technology and logistics platform.”&lt;/p&gt;
+
+&lt;p&gt;Delivery time is key to this whole operation. You can have the best apps and a Chinese sized delivery fleet but if you get a cold GBK burger that took an hour to deliver, you might as well have gotten it yourself. So let’s assume that from the time a person makes an order to the time it takes a restaurant to prepare a meal, it will be around 22 minutes before it’s ready for pickup and delivery. Deliveroo trumpets efficiency and is keen to streamline their process from any waste, therefore drivers will need to be well utilised and be typically within a 2.2km radius (the average cyclist is riding at 17.5km/h in a urban area) to arrive within 12 minutes of pickup, which leaves a cyclist with 8 minutes to serve the 2.2km radius. In the end, a cyclist spends 20 minutes per order and can squeeze 3 deliveries per hour.  The cyclist being within a 2.2km radius of a restaurant is important because it allows Deliveroo to fit in as many orders within an hour (and reduce their average hour wage cost) without jeopardising the quality of their service. Restaurants tend to be concentrated within an area, which makes this plan executable and still leave enough time to serve a well-sized area.&lt;/p&gt;
+
+&lt;p&gt;The components of Deliveroo’s revenue come from users in the form of delivery fees at £2.50 and commission fees from restaurants. The commission they charge is generally 10% of the order, with the average order being around £30. Therefore a typical order will generate around £5.50 and within an hour Deliveroo can typically generate around £16.50 per driver.&lt;/p&gt;
+
+&lt;p&gt;In terms of costs, I would predict Deliveroo pays its drivers around the minimum UK wage at £7 per hour with a £1 bonus per successful delivery. If we take the assumption that a driver can typically complete 3 orders per hour, a Deliveroo driver will cost about £10 per hour during the peak hours of 12pm-3pm and 6pm – 9pm.&lt;/p&gt;
+
+&lt;p&gt;A quick and dirty calculation seems to suggest that per driver, Deliveroo’s business model makes them profitable over a year. This is of course  dependent on a host of simplified assumptions (see below) and looking purely at bicycle riders*** but it seems to suggest that Deliveroo’s underlying model is a sound one that justifies the $200 million it has been able to raise from the private market.&lt;/p&gt;
+
+&lt;h5 id=&quot;how-does-the-future-look&quot;&gt;How does the future look?&lt;/h5&gt;
+
+&lt;p&gt;With the impending introduction of drones and driverless cars it becomes almost impossible to say but if you take Will Shu’s word that he wants you to order from Deliveroo at least twice a day you get the sense that they envision themselves as becoming accessible enough to become part of your daily routine rather than a one-off weekly treat. That means either their revenue model will need to change to make it more affordable with lower delivery and commission fees or they will need to integrate backwards and take control of the cooking/prep process.&lt;/p&gt;
+
+&lt;p&gt;The latter choice runs counter to Martin Mignot’s argument that being fully integrated limits customer choice but no one said you had to cook the food yourself, you just need to own the kitchen.  Deliveroo seems to be heading in that direction by investing in centralised kitchen spaces that will be able to host a number of restaurants and in turn reduce significantly the overhead costs associated with solely owning your own premise. This has the potential to reduce food delivery prices and create greater flexibility for restaurants. Making my dream of eating Wagamama twice a day closer to reality.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 May 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2016/05/06/how-does-it-make-money-deliveroo/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/05/06/how-does-it-make-money-deliveroo/</guid>
+      </item>
+    
+
+    
+      
+        
+      
+    
+      
+        
+          <item>
+            <title>About</title>
+            <description>&lt;p&gt;Originally from South Africa and now living in the U.K, I have a keen interest in all things tech and use this blog to post my observations on the industry. I’m currently a Senior Product Analyst working on TransferWise’s Borderless Account. Previously, I worked as a Product Analyst in iZettle’s product growth team where my focus was on the activation of new users. Prior to starting my career in tech, I was a Management Consultant.&lt;/p&gt;
+</description>
+            <link>http://localhost:4000/about.html</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+
+  </channel>
+</rss>
